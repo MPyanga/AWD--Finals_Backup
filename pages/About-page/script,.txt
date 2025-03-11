@@ -1,0 +1,16 @@
+<div class="container-left">
+            <h2>Our Story</h2>
+            <p>Hangify was founded in 2021 by a group of friends who wanted to create a platform that would make it easier for people to connect and share experiences. We believe that every event is an opportunity to create memories that last a lifetime, and we’re here to help you make those moments unforgettable.</p>
+        </div>
+        <div class="container-right">
+            <h2>Our Mission</h2>
+            <p>Our mission is to bring people together through shared experiences. We believe that every event is a celebration of togetherness, and we’re here to help you create moments that will last a lifetime. Whether you’re planning a small gathering or a large event, we’re here to help you make it extraordinary.</p>
+        </div>
+
+        At [App Name], we believe that life is better when shared. Whether you're looking for a local concert, planning a get-together, or simply connecting with like-minded people, our platform is designed to bring social butterflies together.
+
+Our mission is to make real-world connections easier by helping you discover exciting events, organize gatherings, and meet people who share your interests. From event discovery to community engagement, we aim to turn every moment into a memorable experience.
+
+Join us in creating, attending, and enjoying unforgettable moments! 🎉
+
+Discover. Connect. Celebrate.
